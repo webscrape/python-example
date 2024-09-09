@@ -1,6 +1,6 @@
 from trywebscraping import Fetch
 
-hn = Fetch("https://this-is-an-invalid-site.com")
+hn = Fetch("https://news.ycombinator.com")
 articles = hn.query("tr.athing").extract({
     "rank": "span.rank",
     "title": "td.title a",
