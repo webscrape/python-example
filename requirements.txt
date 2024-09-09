@@ -1,1 +1,1 @@
-trywebscraping @ file:///Users/luke/try-web-scraping-lib
+trywebscraping==0.1.10
