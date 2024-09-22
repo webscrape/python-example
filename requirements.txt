@@ -1,1 +1,1 @@
-trywebscraping==0.1.19
+trywebscraping==0.1.31
